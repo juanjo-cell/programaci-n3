@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d8a17973-1db3-4075-9d16-7b55b7794878" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/abb.py" beforeDir="false" afterPath="$PROJECT_DIR$/controller/abb.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/abb_avl.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/abb_avl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/pet.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/pet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/service/service.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,12 +84,36 @@
       <workItem from="1743644526507" duration="9229000" />
       <workItem from="1743728641300" duration="2533000" />
       <workItem from="1744247964220" duration="18358000" />
-      <workItem from="1744407128412" duration="6619000" />
+      <workItem from="1744407128412" duration="7599000" />
     </task>
+    <task id="LOCAL-00001" summary="actualizacion FastAPIP_pet">
+      <option name="closed" value="true" />
+      <created>1744429573990</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744429573990</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="actualizacion FastAPIP_pet" />
+    <option name="LAST_COMMIT_MESSAGE" value="actualizacion FastAPIP_pet" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/FastAPIP_pet$FastAPIP_pet.coverage" NAME="FastAPIP_pet Coverage Results" MODIFIED="1744422260956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
